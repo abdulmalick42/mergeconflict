@@ -27,7 +27,7 @@ class _MergeHomeState extends State<MergeHome> {
   int counter = 0;
 
   String getGreetingMessage() {
-    return "Hello from MAIN branch!";
+    return "Hello from news1";
   }
 
   @override
